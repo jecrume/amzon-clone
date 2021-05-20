@@ -23,7 +23,7 @@ Or go to (TBD) to see full demo site
 
 ## Authors
 
-* **John Crume** - *Initial work* - [PurpleBooth](https://github.com/jecrume)
+* **John Crume** - *Initial work* - [jecrume](https://github.com/jecrume)
 
 
 
