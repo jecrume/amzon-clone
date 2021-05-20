@@ -10,7 +10,7 @@ Clone the repo to your local environment.
 
 Run the code by navigating to the working directory in a terminal and running "yarn run dev" or "npm run dev"
 
-Or go to (TBD) to see full demo site
+Or go to (https://amzon-clone.vercel.app/) to see full demo site
 
 
 ## Built With
