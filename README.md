@@ -1,28 +1,37 @@
-# Installation Steps
+ Amazon Clone App
+
+This is a clone of the Amazon website. It is built with ReactJS, Redux, TailwindCSS and NextJS.
+
+## Getting Started
+
+Clone the repo to your local environment. 
+
+### Installing
+
+Run the code by navigating to the working directory in a terminal and running "yarn run dev" or "npm run dev"
+
+Or go to (TBD) to see full demo site
+
+
+## Built With
+
+* [ReactJS](https://reactjs.org/) - The web framework used
+* [NextJS](https://nextjs.org/) - Server side rendering
+* [TailwindCSS](https://tailwindcss.com/) - Responsive CSS
+* [Redux] (https://redux.js.org/) - State management
+
+
+## Authors
+
+* **John Crume** - *Initial work* - [PurpleBooth](https://github.com/jecrume)
 
 
 
-## Using npm
+## License
 
-Run commands
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-1) ```npm install```
+## Acknowledgments
 
+Thanks to @sonnysangha for providing the react app template at https://github.com/sonnysangha/Amazon-starter-template-nextjs
 
-2) ```npm run dev```
-
-
-## Or using yarn
-
-Run commands 
-
-1) ```npm install --global yarn```
-
-2) ```yarn install```
-
-3) ```yarn run dev```
-
-
-### If you see the window below then you are set to build AMAZON 2.0!
-
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
