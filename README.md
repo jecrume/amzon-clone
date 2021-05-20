@@ -18,7 +18,7 @@ Or go to (TBD) to see full demo site
 * [ReactJS](https://reactjs.org/) - The web framework used
 * [NextJS](https://nextjs.org/) - Server side rendering
 * [TailwindCSS](https://tailwindcss.com/) - Responsive CSS
-* [Redux] (https://redux.js.org/) - State management
+* [Redux](https://redux.js.org/) - State management
 
 
 ## Authors
